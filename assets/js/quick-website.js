@@ -342,6 +342,8 @@ var Highlight = (function() {
 	// Events
 	//
 
+	
+
 	$highlight.each(function(i, block) {
 		init(i, block);
 	});
