@@ -1,4 +1,4 @@
-﻿<!doctype html>
+<!doctype html>
 <html lang="zxx">
     <head>
         <!-- Required meta tags -->
@@ -72,7 +72,7 @@
 
                                 <li class="nav-item"><a href="#" class="nav-link">Pages <i class="fas fa-chevron-down"></i></a>
                                     <ul class="dropdown-menu">
-                                        <li class="nav-item"><a href="team.html" class="nav-link active">Team</a></li>
+                                        <li class="nav-item"><a href="team.html" class="nav-link">Team</a></li>
 
                                         <li class="nav-item"><a href="pricing.html" class="nav-link">Pricing</a></li>
 
@@ -121,7 +121,7 @@
                                         </li>
 
                                         <li class="nav-item">
-                                            <a href="faq.html" class="nav-link">Faq</a>
+                                            <a href="faq.html" class="nav-link active">Faq</a>
                                         </li>
                                     </ul>
                                 </li>
@@ -240,76 +240,249 @@
         <section class="page-banner">
             <div class="container">
                 <div class="page-banner-content">
-                    <h2>Contact</h2>
-                    <p><a href="index.html">Home</a> . Contact</p>
+                    <h2>Checkout</h2>
+                    <p><a href="index.html">Home</a> . Checkout</p>
                 </div>
             </div>
         </section>
         <!-- End Page banner -->
 
-        <!-- Start Contact Section -->
-		<div class="contact-section ptb-100">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-6">
-						<div class="map-area">
-							<iframe src="../../maps/embed.html?pb=!1m18!1m12!1m3!1d387190.2799090714!2d-74.25987368715496!3d40.697670064588735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew%20York%2C%20NY%2C%20USA!5e0!3m2!1sen!2sbd!4v1570689677254!5m2!1sen!2sbd"></iframe>
-						</div>
+        <!-- Start Checkout Area -->
+		<section class="checkout-area ptb-100">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 col-md-12">
+                        <div class="user-actions">
+                            <i class="fas fa-sign-in-alt"></i>
+                            <span>Returning customer? <a href="#">Click here to login</a></span>
+                        </div>
                     </div>
-                    
-					<div class="col-lg-6">
-                        <form id="contactForm">
-                            <div class="row">
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input type="text" name="name" id="name" class="form-control" required="" data-error="Please enter your name" placeholder="Your Name">
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                </div>
-                                
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input type="email" name="email" id="email" class="form-control" required="" data-error="Please enter your email" placeholder="Your Email">
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                </div>
-                                
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input type="text" name="phone_number" id="phone_number" required="" data-error="Please enter your number" class="form-control" placeholder="Phone">
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                </div>
-                                
-                                <div class="col-lg-6">
-                                    <div class="form-group">
-                                        <input type="text" name="msg_subject" id="msg_subject" class="form-control" required="" data-error="Please enter your subject" placeholder="Subject">
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                </div>
-                                
-                                <div class="col-lg-12 col-md-12">
-                                    <div class="form-group">
-                                        <textarea name="message" class="form-control" id="message" cols="30" rows="6" required="" data-error="Write your message" placeholder="Message"></textarea>
-                                        <div class="help-block with-errors"></div>
-                                    </div>
-                                </div>
-                                
-                                <div class="col-lg-12 col-md-12">
-                                    <div class="send-btn">
-                                        <button type="submit" class=" send-btn-one">Submit</button>
+                </div>
 
-                                        <div id="msgSubmit" class="h3 text-center hidden"></div>
-                                        <div class="clearfix"></div>
-                                    </div>      
+                <form>
+                    <div class="row">
+                        <div class="col-lg-6 col-md-12">
+                            <div class="billing-details">
+                                <h3 class="title">Billing Details</h3>
+
+                                <div class="row">
+                                    <div class="col-lg-12 col-md-12">
+                                        <div class="form-group">
+										    <label>Country <span class="required">*</span></label>
+										
+                                            <div class="select-box">
+                                                <select class="form-control">
+                                                    <option value="5">United Arab Emirates</option>
+                                                    <option value="1">China</option>
+                                                    <option value="2">United Kingdom</option>
+                                                    <option value="0">Germany</option>
+                                                    <option value="3">France</option>
+                                                    <option value="4">Japan</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-6 col-md-6">
+                                        <div class="form-group">
+                                            <label>First Name <span class="required">*</span></label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-6 col-md-6">
+                                        <div class="form-group">
+                                            <label>Last Name <span class="required">*</span></label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-12 col-md-12">
+                                        <div class="form-group">
+                                            <label>Company Name</label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-12 col-md-6">
+                                        <div class="form-group">
+                                            <label>Address <span class="required">*</span></label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-12 col-md-6">
+                                        <div class="form-group">
+                                            <label>Town / City <span class="required">*</span></label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-6 col-md-6">
+                                        <div class="form-group">
+                                            <label>State / County <span class="required">*</span></label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-6 col-md-6">
+                                        <div class="form-group">
+                                            <label>Postcode / Zip <span class="required">*</span></label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-6 col-md-6">
+                                        <div class="form-group">
+                                            <label>Email Address <span class="required">*</span></label>
+                                            <input type="email" class="form-control">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-6 col-md-6">
+                                        <div class="form-group">
+                                            <label>Phone <span class="required">*</span></label>
+                                            <input type="text" class="form-control">
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-12 col-md-12">
+                                        <div class="form-check">
+                                            <input type="checkbox" class="form-check-input" id="create-an-account">
+                                            <label class="form-check-label" for="create-an-account">Create an account?</label>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-12 col-md-12">
+                                        <div class="form-check">
+                                            <input type="checkbox" class="form-check-input" id="ship-different-address">
+                                            <label class="form-check-label" for="ship-different-address">Ship to a different address?</label>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-12 col-md-12">
+                                        <div class="form-group">
+                                            <textarea name="notes" id="notes" cols="30" rows="5" placeholder="Order Notes" class="form-control"></textarea>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
-                        </form>
-					</div>
-				</div>
-			</div>
-		</div>
-		<!-- End Contact Section -->
+                        </div>
+
+                        <div class="col-lg-6 col-md-12">
+                            <div class="order-details">
+                                <h3 class="title">Your Order</h3>
+
+                                <div class="order-table table-responsive">
+                                    <table class="table table-bordered">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">Product Name</th>
+                                                <th scope="col">Total</th>
+                                            </tr>
+                                        </thead>
+
+                                        <tbody>
+                                            <tr>
+                                                <td class="product-name">
+                                                    <a href="#">Green Wooden Chair</a>
+                                                </td>
+
+                                                <td class="product-total">
+                                                    <span class="subtotal-amount">$455.00</span>
+                                                </td>
+                                            </tr>
+
+                                            <tr>
+                                                <td class="product-name">
+                                                    <a href="#">White Metal Chair</a>
+                                                </td>
+
+                                                <td class="product-total">
+                                                    <span class="subtotal-amount">$541.50</span>
+                                                </td>
+                                            </tr>
+
+                                            <tr>
+                                                <td class="product-name">
+                                                    <a href="#">Black Metal Desk Lamp</a>
+                                                </td>
+
+                                                <td class="product-total">
+                                                    <span class="subtotal-amount">$140.50</span>
+                                                </td>
+                                            </tr>
+
+                                            <tr>
+                                                <td class="product-name">
+                                                    <a href="#">Beige Fabric Sofa</a>
+                                                </td>
+
+                                                <td class="product-total">
+                                                    <span class="subtotal-amount">$547.00</span>
+                                                </td>
+                                            </tr>
+
+                                            <tr>
+                                                <td class="order-subtotal">
+                                                    <span>Cart Subtotal</span>
+                                                </td>
+
+                                                <td class="order-subtotal-price">
+                                                    <span class="order-subtotal-amount">$1683.50</span>
+                                                </td>
+                                            </tr>
+
+                                            <tr>
+                                                <td class="order-shipping">
+                                                    <span>Shipping</span>
+                                                </td>
+
+                                                <td class="shipping-price">
+                                                    <span>$30.00</span>
+                                                </td>
+                                            </tr>
+
+                                            <tr>
+                                                <td class="total-price">
+                                                    <span>Order Total</span>
+                                                </td>
+
+                                                <td class="product-subtotal">
+                                                    <span class="subtotal-amount">$1713.50</span>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+
+                                <div class="payment-box">
+                                    <div class="payment-method">
+                                        <p>
+                                            <input type="radio" id="direct-bank-transfer" name="radio-group" checked>
+                                            <label for="direct-bank-transfer">Direct Bank Transfer</label>
+    
+                                            Make your payment directly into our bank account. Please use your Order ID as the payment reference. Your order will not be shipped until the funds have cleared in our account.
+                                        </p>
+                                        <p>
+                                            <input type="radio" id="paypal" name="radio-group">
+                                            <label for="paypal">PayPal</label>
+                                        </p>
+                                        <p>
+                                            <input type="radio" id="cash-on-delivery" name="radio-group">
+                                            <label for="cash-on-delivery">Cash on Delivery</label>
+                                        </p>
+                                    </div>
+    
+                                    <a href="#" class="default-btn order-btn">Place Order <span></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </section>
+		<!-- End Checkout Area -->
 
         <!-- Start Footer section -->
         <footer class="footer-section">
@@ -536,14 +709,14 @@
         <script src="assets/js/jquery.counterup.min.js"></script>
         <!-- Waypoints Min JS -->
         <script src="assets/js/waypoints.min.js"></script>
-        <!-- Ajaxchimp Min JS -->
-        <script src="assets/js/jquery.ajaxchimp.min.js"></script>
         <!-- Mixitup Min JS -->
         <script src="assets/js/jquery.mixitup.min.js"></script>
-        <!-- Form Validator Min JS -->
-        <script src="assets/js/form-validator.min.js"></script>
-        <!-- Contact Form Min JS -->
+        <!-- Contact Form JS -->
         <script src="assets/js/contact-form-script.js"></script>
+        <!-- Validator Min JS -->
+        <script src="assets/js/form-validator.min.js"></script>
+        <!-- Ajaxchimp Min JS -->
+        <script src="assets/js/jquery.ajaxchimp.min.js"></script>
         <!-- Main JS -->
         <script src="assets/js/main.js"></script>
     </body>
