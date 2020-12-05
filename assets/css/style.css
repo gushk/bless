@@ -291,7 +291,7 @@ Navbar Area CSS
 }
 
 .grimpen-nav .navbar .navbar-nav .nav-item a:hover, .grimpen-nav .navbar .navbar-nav .nav-item a:focus, .grimpen-nav .navbar .navbar-nav .nav-item a.active {
-  color: #122c84;
+  color: #1D7050;
 }
 
 .grimpen-nav .navbar .navbar-nav .nav-item a i {
@@ -364,7 +364,7 @@ Navbar Area CSS
 }
 
 .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:hover, .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:focus, .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a.active {
-  color: #122c84;
+  color: #1D7050;
 }
 
 .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -415,7 +415,7 @@ Navbar Area CSS
 }
 
 .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #122c84;
+  color: #1D7050;
 }
 
 .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -431,7 +431,7 @@ Navbar Area CSS
 }
 
 .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #122c84;
+  color: #1D7050;
 }
 
 .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu {
@@ -447,7 +447,7 @@ Navbar Area CSS
 }
 
 .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #122c84;
+  color: #1D7050;
 }
 
 .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
@@ -568,11 +568,11 @@ Navbar Area CSS
 
 .grimpen-nav .navbar .others-options .btn-primary:hover {
   color: #ffffff !important;
-  background-color: #122c84 !important;
+  background-color: #1D7050 !important;
   -webkit-transition: .6s;
   transition: .6s;
   -webkit-transition: 0.5s;
-  border: 1px solid #122c84 !important;
+  border: 1px solid #1D7050 !important;
 }
 
 .grimpen-nav .navbar .others-options .option-item {
@@ -669,7 +669,7 @@ Navbar Area CSS
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:hover, .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li a:focus, .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li a.active {
-  color: #122c84;
+  color: #1D7050;
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a {
@@ -677,7 +677,7 @@ Navbar Area CSS
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:hover, .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a:focus, .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li a.active {
-  color: #122c84;
+  color: #1D7050;
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a {
@@ -685,7 +685,7 @@ Navbar Area CSS
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #122c84;
+  color: #1D7050;
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a {
@@ -693,7 +693,7 @@ Navbar Area CSS
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #122c84;
+  color: #1D7050;
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a {
@@ -701,7 +701,7 @@ Navbar Area CSS
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #122c84;
+  color: #1D7050;
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a {
@@ -709,7 +709,7 @@ Navbar Area CSS
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #122c84;
+  color: #1D7050;
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a {
@@ -717,31 +717,31 @@ Navbar Area CSS
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:hover, .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a:focus, .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li a.active {
-  color: #122c84;
+  color: #1D7050;
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #122c84;
+  color: #1D7050;
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #122c84;
+  color: #1D7050;
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #122c84;
+  color: #1D7050;
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li .dropdown-menu li.active a {
-  color: #122c84;
+  color: #1D7050;
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li .dropdown-menu li.active a {
-  color: #122c84;
+  color: #1D7050;
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .navbar-nav .nav-item .dropdown-menu li.active a {
-  color: #122c84;
+  color: #1D7050;
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .others-options .cart-btn {
@@ -760,7 +760,7 @@ Navbar Area CSS
 
 .navbar-area.is-sticky .grimpen-nav .navbar .others-options .btn-primary:hover {
   color: #ffffff !important;
-  background-color: #122c84 !important;
+  background-color: #1D7050 !important;
 }
 
 .navbar-area.is-sticky .grimpen-nav .navbar .others-options .btn-primary:hover i {
@@ -897,7 +897,7 @@ Navbar Area CSS
     font-size: 14px;
   }
   .grimpen-responsive-nav .grimpen-responsive-menu.mean-container .mean-nav ul li a.active {
-    color: #122c84;
+    color: #1D7050;
   }
   .grimpen-responsive-nav .grimpen-responsive-menu.mean-container .mean-nav ul li li a {
     font-size: 13.5px;
@@ -1074,7 +1074,7 @@ Sidebar Modal CSS
 
 .sidebar-modal .sidebar-contact-area .contact-info .contact-info-content h2 a {
   display: inline-block;
-  color: #122c84;
+  color: #1D7050;
 }
 
 .sidebar-modal .sidebar-contact-area .contact-info .contact-info-content h2 a:hover {
@@ -1087,7 +1087,7 @@ Sidebar Modal CSS
 }
 
 .sidebar-modal .sidebar-contact-area .contact-info .contact-info-content h2 a:not(:first-child):hover {
-  color: #122c84;
+  color: #1D7050;
   text-decoration: none;
 }
 
@@ -1117,9 +1117,9 @@ Sidebar Modal CSS
   width: 35px;
   height: 35px;
   line-height: 34px;
-  border: 1px solid #122c84;
+  border: 1px solid #1D7050;
   border-radius: 50%;
-  color: #122c84;
+  color: #1D7050;
   display: block;
 }
 
@@ -1129,8 +1129,8 @@ Sidebar Modal CSS
 
 .sidebar-modal .sidebar-contact-area .contact-info .contact-info-content .social li a:hover {
   color: #ffffff;
-  border-color: #122c84;
-  background-color: #122c84;
+  border-color: #1D7050;
+  background-color: #1D7050;
   -webkit-transition: .6s;
   transition: .6s;
 }
@@ -1244,7 +1244,7 @@ Main Banner Area CSS
   font-weight: 400;
   text-transform: uppercase;
   padding: 15px 30px;
-  background-color: #122c84;
+  background-color: #1D7050;
   color: #ffffff;
   border-radius: 4px;
   -webkit-transition: .6s;
@@ -1259,7 +1259,7 @@ Main Banner Area CSS
 
 .main-slider .main-banner-content .btn-box .default-btn-one:hover {
   background-color: #ffffff;
-  color: #122c84;
+  color: #1D7050;
   text-decoration: none;
 }
 
@@ -1270,7 +1270,7 @@ Main Banner Area CSS
   text-transform: uppercase;
   padding: 15px 30px;
   background-color: #ffffff;
-  color: #122c84;
+  color: #1D7050;
   border-radius: 4px;
   -webkit-transition: .6s;
   transition: .6s;
@@ -1284,7 +1284,7 @@ Main Banner Area CSS
 }
 
 .main-slider .main-banner-content .btn-box .popup-youtube:hover {
-  background-color: #122c84;
+  background-color: #1D7050;
   color: #ffffff;
   text-decoration: none;
 }
@@ -1323,7 +1323,7 @@ Featured Services CSS
   width: 80px;
   background-color: #e7eaf3;
   line-height: 80px;
-  color: #122c84;
+  color: #1D7050;
   border-radius: 50px;
   position: relative;
   z-index: 1;
@@ -1408,7 +1408,7 @@ Featured Services CSS
 }
 
 .single-featured-services-box:hover .icon i {
-  background-color: #40559b;
+  background-color: #43ad43;
   color: #ffffff;
   -webkit-transition: .6s;
   transition: .6s;
@@ -2085,7 +2085,7 @@ Choose Section CSS
 }
 
 .choose-item .choose-area-conteent span {
-  color: #a6bafb;
+  color: #b7fba6;
 }
 
 .choose-item .choose-area-conteent p {
@@ -2410,13 +2410,13 @@ Team Section CSS
   font-weight: 400;
   text-transform: uppercase;
   padding: 15px 30px;
-  background-color: #122c84;
+  background-color: #1D7050;
   color: #ffffff;
   border-radius: 4px;
   -webkit-transition: .6s;
   transition: .6s;
   -webkit-transition: 0.5s;
-  border: 1px solid #122c84;
+  border: 1px solid #1D7050;
 }
 
 .team-text-area .team-btn .team-btn-one i {
@@ -2425,7 +2425,7 @@ Team Section CSS
 
 .team-text-area .team-btn .team-btn-one:hover {
   background-color: #ffffff;
-  color: #122c84;
+  color: #1D7050;
   text-decoration: none;
 }
 
@@ -2504,13 +2504,13 @@ Portfolio Section CSS
 
 .portfolio-title-area .filter-menu li:hover {
   background: transparent;
-  color: #122c84;
+  color: #1D7050;
 }
 
 .portfolio-title-area .filter-menu .filter.active {
-  color: #122c84;
+  color: #1D7050;
   background-color: transparent;
-  border-bottom: 1px solid #122c84;
+  border-bottom: 1px solid #1D7050;
 }
 
 .single-item {
@@ -2797,7 +2797,7 @@ Pricing Section CSS
   font-weight: 400;
   text-transform: uppercase;
   padding: 14px 30px;
-  background-color: #122c84;
+  background-color: #1D7050;
   color: #ffffff;
   border-radius: 4px;
   -webkit-transition: .6s;
@@ -3366,7 +3366,7 @@ Blog Section CSS
 }
 
 .blog-item .blog-content:hover h3 {
-  color: #122c84;
+  color: #1D7050;
 }
 
 .blog-item .blog-image {
