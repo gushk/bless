@@ -494,7 +494,8 @@
                                 <h3>Solicite um Orçamento</h3>
                             </div>
 
-                            <form class="appointment-form">
+                            <form class="appointment-form" action="https://api.staticforms.xyz/submit" method="post">
+                                <input type="hidden" name="accessKey" value="ed6877c8-8720-4576-aa1f-d4e6321db92a">
                                  <div class="row">
                                     <div class="col-lg-6">
                                         <div class="form-group">
@@ -504,19 +505,19 @@
                                     
                                     <div class="col-lg-6">
                                         <div class="form-group">
-                                            <input type="text" name="text" id="text" class="form-control" placeholder="Telefone">
+                                            <input type="text" name="phone" id="phone" class="form-control" placeholder="Telefone">
                                         </div>
                                     </div>
                                     
                                     <div class="col-lg-6">
                                         <div class="form-group">
-                                            <input type="email" name="name" id="name-2" class="form-control" placeholder="Email">
+                                            <input type="email" name="email" id="email" class="form-control" placeholder="Email">
                                         </div>
                                     </div>
 
                                     <div class="col-lg-6">
                                         <div class="form-group">
-                                            <input type="text" class="form-control" placeholder="Empresa">
+                                            <input type="text" name="empresa" id="empresa" class="form-control" placeholder="Empresa">
                                         </div>
                                     </div>
 <div class="col-lg-12 col-md-12">
@@ -527,7 +528,15 @@
 
                                     <div class="col-lg-12 col-md-12">
                                         <div class="appointment-btn">
-                                            <a href="#" class="appointment-btn-one">Enviar<i class="flaticon-right-arrow-1"></i></a>
+                                            
+
+                                      
+                                            <input type="hidden" name="redirectTo" value="https://example.com/contact/success"> <!-- Optional -->
+                                            <input class="appointment-btn-one" type="submit" value="Enviar" />
+
+
+
+
                                         </div>
                                     </div>
                                 </div>
